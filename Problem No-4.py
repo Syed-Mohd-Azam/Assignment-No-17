@@ -1,0 +1,2 @@
+# Write a Python script to find if “Python” is present in the set thisset = {"Java","Python", "Django"}
+print("Yes it is present!") if {"Python"}.issubset({"Java","Python","Django"}) else print("No it is not present!")
